@@ -5,7 +5,7 @@
 Term: Fall 2021
 
 + Team # 1
-+ Projec title: Learning fair representations (LFR) vs Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen)
++ Project title: Learning fair representations (LFR) vs Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment (DM and DM-sen)
 + Team members
 	+ Bischoff, Melissa
 	+ Jennings-Dobbs, Emily
@@ -17,7 +17,7 @@ Term: Fall 2021
 	
 **Contribution statement**: Wanxin Wang, Melissa Bischoff, and Emily Jennings-Dobbs implemented the LFR algorithm. Rodrigo Zarate, Yang Zhao, and Jiayi Nie implemented the DM & DM-sen algorithms. All team members were involved in the evaluation and comparison of the different algorithms. Jiayi Nie presented the project.  All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is organized as follows.
 
 ```
 proj/
