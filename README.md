@@ -17,9 +17,11 @@ Term: Fall 2021
 	
 **Contribution statement**: Wanxin Wang, Melissa Bischoff, and Emily Jennings-Dobbs implemented the LFR algorithm. Rodrigo Zarate, Yang Zhao, and Jiayi Nie implemented the DM & DM-sen algorithms, debugging of both implementations was attempted by all group members with notable contributions from Wanxin Wang and Yang Zhao. All team members were involved in the evaluation and comparison of the different algorithms. Yang Zhao presented the project. All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
+Please see [doc/main.pdf](doc/main.pdf) for the final report. See /lib/ for code algorithm implementation.
+
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is organized as follows.
 
-Please see (/doc/main.pdf) for the final report.
+
 ```
 proj/
 ├── lib/
