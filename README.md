@@ -2,7 +2,7 @@
 
 ### [Project Description](doc/project4_desc.md)
 
-Please see [doc/main.pdf](doc/main.pdf) for the final report. See [lib/](lib/) for code algorithm implementation.
+Please see [doc/main.pdf](doc/main.pdf) for the final report. See [lib/](lib/) for the code of the algorithm implementation.
 
 Term: Fall 2021
 
