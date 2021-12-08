@@ -19,6 +19,7 @@ Term: Fall 2021
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is organized as follows.
 
+Please see (/doc/main.pdf) for the final report.
 ```
 proj/
 ├── lib/
